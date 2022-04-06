@@ -1,3 +1,21 @@
 .all_mar {
   margin-bottom: 50px;
 }
+#necessary{
+  color: red;
+}
+.center-block {
+  margin-top: 4rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.margin-bottom {
+  margin-bottom: 2rem;
+}
+.margin-top{
+  margin-top: 2rem;
+}
+.margin-top-sm{
+  margin-top: 1rem;
+}
